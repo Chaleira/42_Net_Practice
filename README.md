@@ -8,14 +8,14 @@ The 42 Net_Practise project is designed to provide hands-on practice with subnet
 
 ## Exercises
 
-1. **Exercise 00: Introduction to IP Addressing**
+1. **Level 1 to Level 3: Introduction to IP Addressing**
    - Topics covered: IPv4 addressing, binary representation of IP addresses, classes of IP addresses.
    - Exercises: Converting IP addresses between decimal and binary notation, identifying the class of an IP address.
 
-2. **Exercise 01: Subnet Masks and CIDR Notation**
+2. **Level 4 to Level 6: Subnet Masks and CIDR Notation**
    - Topics covered: Subnet masks, CIDR notation, subnetting basics.
    - Exercises: Calculating subnet masks, determining the subnet range of IP addresses in CIDR notation.
 
-3. **Exercise 02: Subnetting Practice**
+3. **Level 7 to Level 10: Subnetting Practice**
    - Topics covered: Subnetting techniques, subnetting scenarios, subnet design.
    - Exercises: Subnetting practice problems involving various subnetting scenarios, including VLSM.
