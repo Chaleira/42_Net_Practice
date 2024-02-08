@@ -1,10 +1,10 @@
-# 42 Net_Practise
+# 42 Net_Practice
 
-Welcome to the 42 Net_Practise project repository! This repository contains a collection of exercises and resources designed to help you practice subnetting concepts in the context of the 42 school curriculum. Subnetting is an essential skill for network administrators and engineers, and these exercises will help you master the techniques involved.
+Welcome to the 42 Net_Practice project repository! This repository contains a collection of exercises and resources designed to help you practice subnetting concepts in the context of the 42 school curriculum. Subnetting is an essential skill for network administrators and engineers, and these exercises will help you master the techniques involved.
 
 ## Introduction
 
-The 42 Net_Practise project is designed to provide hands-on practice with subnetting concepts such as IP addressing, subnet masks, CIDR notation, and subnetting calculations. Each exercise focuses on a specific subnetting topic and includes detailed instructions, practice problems, and solutions to reinforce your understanding.
+The 42 Net_Practice project is designed to provide hands-on practice with subnetting concepts such as IP addressing, subnet masks, CIDR notation, and subnetting calculations. Each exercise focuses on a specific subnetting topic and includes detailed instructions, practice problems, and solutions to reinforce your understanding.
 
 ## Exercises
 
